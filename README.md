@@ -13,6 +13,6 @@
 
 [![Cristian1805 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian1805)](https://github.com/Cristian1805/github-readme-stats)
 
-[![Cristian1805 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cristian1805)](https://github.com/Cristian1805/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian1805&langs_count=8)](https://github.com/Cristian1805/github-readme-stats)
 
 
