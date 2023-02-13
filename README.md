@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Cristian1805 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian1805)](https://github.com/Cristian1805/github-readme-stats)
+![Cristian1805's github stats](https://github-readme-stats.vercel.app/api?username=Cristian1805&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian1805&langs_count=8)](https://github.com/Cristian1805/github-readme-stats)
 
